@@ -1,3 +1,4 @@
+package org.example;
 
 public class sonarQube01 {
     String addHeader(String stringToAdd, int x, int y){
